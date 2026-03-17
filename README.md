@@ -45,8 +45,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/quickbooks-to-s3.git
-cd QBD
+git clone https://github.com/Akash-J21/quickbooks-to-s3.git
+
 ```
 
 2. Install dependencies:
