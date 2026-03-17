@@ -1,0 +1,5 @@
+pyodbc
+pandas
+boto3
+pyarrow
+pyyaml
